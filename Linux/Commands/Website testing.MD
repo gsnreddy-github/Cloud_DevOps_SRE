@@ -9,66 +9,63 @@ To test a website from the command line in Linux, you can use a combination of t
 ping example.com
 ```
 
-2. Traceroute: To trace the route packets take to reach the destination server.
+1. Traceroute: To trace the route packets take to reach the destination server.
 
 ```bash
 traceroute example.com
 ```
 
-## curl: 
-To fetch a web page and display its content or headers.
+1. curl: To fetch a web page and display its content or headers.
 
 ```bash
 curl -I example.com   # Fetch headers
 curl example.com      # Fetch content
 ```
 
-## wget: 
-To download files from the web.
+1. wget: To download files from the web.
 
 ```bash
 wget https://example.com/file.zip
 ```
 
-## nslookup / dig: 
-To perform DNS lookups and query DNS information.
+1. nslookup / dig: To perform DNS lookups and query DNS information.
 
 ```bash
 nslookup example.com
 dig example.com
 ```
 
-## telnet: To check if a specific port on a server is open.
+1. telnet: To check if a specific port on a server is open.
 
 ```bash
 telnet example.com 80   # Check if port 80 is open (HTTP)
 ```
 
-## netcat (nc): To establish network connections for testing purposes.
+1. netcat (nc): To establish network connections for testing purposes.
 
 ```bash
 nc -vz example.com 443  # Check if port 443 (HTTPS) is open
 ```
 
-## htop: To monitor system resources and processes interactively.
+1. htop: To monitor system resources and processes interactively.
 
 ```bash
 htop
 ```
 
-## iftop: To monitor network bandwidth usage by individual connections.
+1. iftop: To monitor network bandwidth usage by individual connections.
 
 ```bash
 sudo iftop
 ```
 
-## mtr: A combination of ping and traceroute, providing detailed network statistics.
+1. mtr: A combination of ping and traceroute, providing detailed network statistics.
 
 ```bash
 mtr example.com
 ```
 
-## ss / netstat: To display active network connections and listening ports.
+1. ss / netstat: To display active network connections and listening ports.
 
 ```bash
 ss -tuln   # List listening ports
