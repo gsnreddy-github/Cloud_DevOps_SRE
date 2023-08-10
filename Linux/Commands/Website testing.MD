@@ -2,16 +2,16 @@
 
 To test a website from the command line in Linux, you can use a combination of tools and commands to perform various types of tests and checks. Here are some useful commands you can use:
 
-### Commands:
+### Commands
 1. Ping: To check if a website is reachable and measure round-trip time.
 
-```bash
+```sh
 ping example.com
 ```
 
 1. Traceroute: To trace the route packets take to reach the destination server.
 
-```bash
+```sh
 traceroute example.com
 ```
 
@@ -74,8 +74,4 @@ ss -tn     # Display active TCP connections
 
 These commands can help you diagnose network issues, test website availability, check DNS configurations, and monitor network traffic. Use the appropriate command based on the specific test you want to perform.
 
-# Integrating Kubernetes cluster with Ansible
 
-1. Login to ansible server and copy public key onto kubernetes cluseter master account 
-
-1. Update hosts file with new group called kubernetes and add kubernetes master in that. 
