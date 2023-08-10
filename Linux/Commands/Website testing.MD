@@ -73,3 +73,9 @@ ss -tn     # Display active TCP connections
 ```
 
 These commands can help you diagnose network issues, test website availability, check DNS configurations, and monitor network traffic. Use the appropriate command based on the specific test you want to perform.
+
+# Integrating Kubernetes cluster with Ansible
+
+1. Login to ansible server and copy public key onto kubernetes cluseter master account 
+
+1. Update hosts file with new group called kubernetes and add kubernetes master in that. 
