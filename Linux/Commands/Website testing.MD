@@ -3,15 +3,15 @@
 To test a website from the command line in Linux, you can use a combination of tools and commands to perform various types of tests and checks. Here are some useful commands you can use:
 
 ### Commands
-1. Ping To check if a website is reachable and measure round-trip time.
+1. Ping: To check if a website is reachable and measure round-trip time.
 
-```sh
+```bash
 ping example.com
 ```
 
-1. Traceroute To trace the route packets take to reach the destination server.
+1. Traceroute: To trace the route packets take to reach the destination server.
 
-```sh
+```bash
 traceroute example.com
 ```
 
