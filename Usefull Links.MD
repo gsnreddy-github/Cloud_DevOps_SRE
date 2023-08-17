@@ -44,6 +44,22 @@ https://medium.com/@sushantkapare1717/ensuring-security-and-data-privacy-as-a-de
 #### Grafana
 https://medium.com/@sushantkapare1717/grafana-setup-on-ubuntu-2e90aa20b76d
 
+#### Behaviour Questions
+Sample Behavioral Interview Questions
+When using behavior-based interviewing, every candidate must be asked the same questions to assess them fairly.
+
+Example questions include:
+ – Tell me about a difficult work challenge you’ve had.
+ – Have you ever been in an ethically questionable business situation?
+ – Have you ever had a project that had to change drastically while it was in progress?
+ – Talk about a time when you’ve had to sell an idea to your colleagues.
+ – Tell me about a major setback you’ve had.
+ – Talk about a time where you had to make an important decision quickly.
+ – Have you ever had a deadline you were not able to meet?
+ – Talk about a time when you had to adapt to significant changes at work.
+ – Have you ever had to convince your team to do a job they were reluctant to do?
+ – How have you dealt with an angry or upset customer?
+
 ### Medium
 #### Praveen Dandu
 https://praveendandu24.medium.com/
