@@ -44,6 +44,7 @@ https://medium.com/@sushantkapare1717/docker-senario-based-questions-part-iii-8a
 #### DevOps Questions
 https://medium.com/@sushantkapare1717/complete-ci-cd-pipeline-spring-boot-application-a7500f176f1f
 https://medium.com/@sushantkapare1717/ensuring-security-and-data-privacy-as-a-devops-engineer-8837b9eff044
+https://medium.com/@writetoritika/10-stages-real-world-ci-cd-devsecops-pipeline-for-deployment-of-petclinic-application-f95431bf940
 
 ### Logging
 #### Prometheus
