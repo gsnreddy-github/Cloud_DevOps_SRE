@@ -27,6 +27,11 @@ https://medium.com/@sushantkapare1717/kubernetes-interview-questions-part-i-383c
 https://medium.com/@sushantkapare1717/kubernetes-interview-questionspart-ii-fafa56a9db4b
 https://medium.com/@sushantkapare1717/kubernetes-interview-questionspart-iii-617a6216deb3
 https://medium.com/@sushantkapare1717/kubernetes-interview-questionspart-iv-fd04daea3b30
+https://www.simplilearn.com/tutorials/kubernetes-tutorial/kubernetes-interview-questions
+https://k21academy.com/docker-kubernetes/most-asked-docker-kubernetes-interview-questions-and-answers/
+
+#### AKS
+https://www.javainuse.com/interview/aks
 
 ### Docker
 #### Docker Questions
@@ -41,8 +46,17 @@ https://medium.com/@sushantkapare1717/complete-ci-cd-pipeline-spring-boot-applic
 https://medium.com/@sushantkapare1717/ensuring-security-and-data-privacy-as-a-devops-engineer-8837b9eff044
 
 ### Logging
+#### Prometheus
+https://logit.io/blog/post/prometheus-interview-questions/
+https://www.devopsschool.com/blog/top-50-prometheus-interview-questions-and-answers/
+https://www.techgeeknext.com/tools/prometheus-interview-questions
+https://www.scmgalaxy.com/tutorials/top-50-prometheus-interview-questions-with-answers/
+
 #### Grafana
 https://medium.com/@sushantkapare1717/grafana-setup-on-ubuntu-2e90aa20b76d
+https://mindmajix.com/grafana-interview-questions
+https://www.devopsschool.com/blog/top-50-grafana-interview-questions-and-answers/
+https://www.techgeeknext.com/tools/grafana-interview-questions
 
 ### Medium
 #### Praveen Dandu
