@@ -53,6 +53,7 @@ https://logit.io/blog/post/prometheus-interview-questions/
 https://www.devopsschool.com/blog/top-50-prometheus-interview-questions-and-answers/
 https://www.techgeeknext.com/tools/prometheus-interview-questions
 https://www.scmgalaxy.com/tutorials/top-50-prometheus-interview-questions-with-answers/
+https://medium.com/rahasak/monitor-kubernetes-clusters-with-prometheus-and-grafana-3ebecc941025
 
 #### Grafana
 https://medium.com/@sushantkapare1717/grafana-setup-on-ubuntu-2e90aa20b76d
