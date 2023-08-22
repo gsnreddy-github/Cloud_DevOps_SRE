@@ -1,4 +1,4 @@
-##DevOps
+## DevOps
 ### DevOps Questions
 https://resumeworded.com/interview-questions/devops-manager
 https://medium.com/@sushantkapare1717/complete-ci-cd-pipeline-spring-boot-application-a7500f176f1f
@@ -67,7 +67,7 @@ https://www.techgeeknext.com/tools/grafana-interview-questions
 
 
 ## Management
-###Agile
+### Agile
 #### Scrum master scenario-based questions
 https://k21academy.com/scrum-master/interview-questions-answers/
 
@@ -81,25 +81,25 @@ When using behavior-based interviewing, every candidate must be asked the same q
 
 Example questions include:
  
-– Tell me about a difficult work challenge you’ve had.
+Tell me about a difficult work challenge you’ve had.
 
- – Have you ever been in an ethically questionable business situation?
+ Have you ever been in an ethically questionable business situation?
 
- – Have you ever had a project that had to change drastically while it was in progress?
+ Have you ever had a project that had to change drastically while it was in progress?
 
- – Talk about a time when you’ve had to sell an idea to your colleagues.
+ Talk about a time when you’ve had to sell an idea to your colleagues.
 
- – Tell me about a major setback you’ve had.
+ Tell me about a major setback you’ve had.
 
- – Talk about a time where you had to make an important decision quickly.
+ Talk about a time where you had to make an important decision quickly.
 
- – Have you ever had a deadline you were not able to meet?
+ Have you ever had a deadline you were not able to meet?
 
- – Talk about a time when you had to adapt to significant changes at work.
+ Talk about a time when you had to adapt to significant changes at work.
 
- – Have you ever had to convince your team to do a job they were reluctant to do?
+ Have you ever had to convince your team to do a job they were reluctant to do?
 
- – How have you dealt with an angry or upset customer?
+ How have you dealt with an angry or upset customer?
 
 
 
