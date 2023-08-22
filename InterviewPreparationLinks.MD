@@ -61,6 +61,10 @@ https://mindmajix.com/grafana-interview-questions
 https://www.devopsschool.com/blog/top-50-grafana-interview-questions-and-answers/
 https://www.techgeeknext.com/tools/grafana-interview-questions
 
+### CI/CD
+#### Jenkins
+https://www.tutorialworks.com/jenkins-shared-library/
+
 ### Medium
 #### Praveen Dandu
 https://praveendandu24.medium.com/
@@ -71,14 +75,23 @@ When using behavior-based interviewing, every candidate must be asked the same q
 
 Example questions include:
  – Tell me about a difficult work challenge you’ve had.
+
  – Have you ever been in an ethically questionable business situation?
+
  – Have you ever had a project that had to change drastically while it was in progress?
+
  – Talk about a time when you’ve had to sell an idea to your colleagues.
+
  – Tell me about a major setback you’ve had.
+
  – Talk about a time where you had to make an important decision quickly.
+
  – Have you ever had a deadline you were not able to meet?
+
  – Talk about a time when you had to adapt to significant changes at work.
+
  – Have you ever had to convince your team to do a job they were reluctant to do?
+
  – How have you dealt with an angry or upset customer?
 
 
