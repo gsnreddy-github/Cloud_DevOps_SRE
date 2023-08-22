@@ -36,6 +36,9 @@ https://medium.com/@sushantkapare1717/terraform-senario-based-questions-part-i-3
 https://medium.com/@sushantkapare1717/terraform-senario-based-questions-part-ii-71fd702f2535
 https://medium.com/@sushantkapare1717/terraform-questions-part-iii-d742ec57e805
 
+#### TF General
+https://medium.com/@saurabhdahibhate50/imp-terraform-commands-unveiled-26a61421b1fd
+
 ### Ansible
 #### Ansible Scenario-Based Questions
 https://medium.com/@sushantkapare1717/things-you-should-know-to-start-using-your-ansible-playbook-7610a86f1e94
@@ -47,6 +50,7 @@ https://medium.com/@sushantkapare1717/ansible-senario-based-questions-part-iii-7
 #### Jenkins
 https://www.tutorialworks.com/jenkins-shared-library/
 https://github.com/iam-veeramalla/Jenkins-Zero-To-Hero/blob/main/shared-libraries/README.md
+https://medium.com/@prasadsaisai3/project-1-jenkins-declarative-pipeline-cicd-tutorial-for-djnago-notes-app-e17b0c17ee5b
 
 
 #### Linux
