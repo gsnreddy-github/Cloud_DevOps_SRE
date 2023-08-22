@@ -46,6 +46,8 @@ https://medium.com/@sushantkapare1717/ansible-senario-based-questions-part-iii-7
 ### CI/CD
 #### Jenkins
 https://www.tutorialworks.com/jenkins-shared-library/
+https://github.com/iam-veeramalla/Jenkins-Zero-To-Hero/blob/main/shared-libraries/README.md
+
 
 #### Linux
 https://medium.com/@mj.vishweshwaran/vish-linux-commands-for-devops-warriors-3866e4f4e56
