@@ -1,21 +1,16 @@
-#### DevOps Scenario-based questions
+##DevOps
+### DevOps Questions
 https://resumeworded.com/interview-questions/devops-manager
+https://medium.com/@sushantkapare1717/complete-ci-cd-pipeline-spring-boot-application-a7500f176f1f
+https://medium.com/@sushantkapare1717/ensuring-security-and-data-privacy-as-a-devops-engineer-8837b9eff044
+https://medium.com/@writetoritika/10-stages-real-world-ci-cd-devsecops-pipeline-for-deployment-of-petclinic-application-f95431bf940
 
-#### Scrum master scenario-based questions
-https://k21academy.com/scrum-master/interview-questions-answers/
-
-### Ansible
-#### Ansible Scenario-Based Questions
-https://medium.com/@sushantkapare1717/things-you-should-know-to-start-using-your-ansible-playbook-7610a86f1e94
-https://medium.com/@sushantkapare1717/ansible-senario-based-questions-part-i-f1be7b8b5620
-https://medium.com/@sushantkapare1717/ansible-senario-based-questions-part-ii-8c5413ec335c
-https://medium.com/@sushantkapare1717/ansible-senario-based-questions-part-iii-7b61dae91b8c
-
-### Terraform
-#### Terraform Scenario-based questions
-https://medium.com/@sushantkapare1717/terraform-senario-based-questions-part-i-36eebf18d844
-https://medium.com/@sushantkapare1717/terraform-senario-based-questions-part-ii-71fd702f2535
-https://medium.com/@sushantkapare1717/terraform-questions-part-iii-d742ec57e805
+### Docker
+#### Docker Questions
+https://medium.com/@sushantkapare1717/docker-interview-questions-74b517ee8943
+https://medium.com/@sushantkapare1717/docker-senario-based-questions-part-i-92cbe79faba4
+https://medium.com/@sushantkapare1717/docker-senario-based-questions-part-ii-b98ff8fb60aa
+https://medium.com/@sushantkapare1717/docker-senario-based-questions-part-iii-8a808489e6ef
 
 ### K8S
 #### Kubernetes questions
@@ -31,21 +26,28 @@ https://www.simplilearn.com/tutorials/kubernetes-tutorial/kubernetes-interview-q
 https://k21academy.com/docker-kubernetes/most-asked-docker-kubernetes-interview-questions-and-answers/
 https://medium.com/faun/kubernetes-application-deployment-strategies-3935986bec6d
 
-#### AKS
+### AKS
 https://www.javainuse.com/interview/aks
 
-### Docker
-#### Docker Questions
-https://medium.com/@sushantkapare1717/docker-interview-questions-74b517ee8943
-https://medium.com/@sushantkapare1717/docker-senario-based-questions-part-i-92cbe79faba4
-https://medium.com/@sushantkapare1717/docker-senario-based-questions-part-ii-b98ff8fb60aa
-https://medium.com/@sushantkapare1717/docker-senario-based-questions-part-iii-8a808489e6ef
+### Terraform
+#### Terraform Scenario-based questions
+https://medium.com/@sushantkapare1717/terraform-senario-based-questions-part-i-36eebf18d844
+https://medium.com/@sushantkapare1717/terraform-senario-based-questions-part-ii-71fd702f2535
+https://medium.com/@sushantkapare1717/terraform-questions-part-iii-d742ec57e805
 
-### DevOps
-#### DevOps Questions
-https://medium.com/@sushantkapare1717/complete-ci-cd-pipeline-spring-boot-application-a7500f176f1f
-https://medium.com/@sushantkapare1717/ensuring-security-and-data-privacy-as-a-devops-engineer-8837b9eff044
-https://medium.com/@writetoritika/10-stages-real-world-ci-cd-devsecops-pipeline-for-deployment-of-petclinic-application-f95431bf940
+### Ansible
+#### Ansible Scenario-Based Questions
+https://medium.com/@sushantkapare1717/things-you-should-know-to-start-using-your-ansible-playbook-7610a86f1e94
+https://medium.com/@sushantkapare1717/ansible-senario-based-questions-part-i-f1be7b8b5620
+https://medium.com/@sushantkapare1717/ansible-senario-based-questions-part-ii-8c5413ec335c
+https://medium.com/@sushantkapare1717/ansible-senario-based-questions-part-iii-7b61dae91b8c
+
+### CI/CD
+#### Jenkins
+https://www.tutorialworks.com/jenkins-shared-library/
+
+#### Linux
+https://medium.com/@mj.vishweshwaran/vish-linux-commands-for-devops-warriors-3866e4f4e56
 
 ### Logging
 #### Prometheus
@@ -61,9 +63,13 @@ https://mindmajix.com/grafana-interview-questions
 https://www.devopsschool.com/blog/top-50-grafana-interview-questions-and-answers/
 https://www.techgeeknext.com/tools/grafana-interview-questions
 
-### CI/CD
-#### Jenkins
-https://www.tutorialworks.com/jenkins-shared-library/
+#### Splunk
+
+
+## Management
+###Agile
+#### Scrum master scenario-based questions
+https://k21academy.com/scrum-master/interview-questions-answers/
 
 ### Medium
 #### Praveen Dandu
@@ -74,7 +80,8 @@ Sample Behavioral Interview Questions
 When using behavior-based interviewing, every candidate must be asked the same questions to assess them fairly.
 
 Example questions include:
- – Tell me about a difficult work challenge you’ve had.
+ 
+– Tell me about a difficult work challenge you’ve had.
 
  – Have you ever been in an ethically questionable business situation?
 
