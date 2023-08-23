@@ -26,6 +26,7 @@ https://www.simplilearn.com/tutorials/kubernetes-tutorial/kubernetes-interview-q
 https://k21academy.com/docker-kubernetes/most-asked-docker-kubernetes-interview-questions-and-answers/
 https://medium.com/faun/kubernetes-application-deployment-strategies-3935986bec6d
 https://prakashkumar0301.medium.com/blue-green-deployment-with-kubernetes-a37a534a2ef4
+https://www.linkedin.com/pulse/100-k8s-interview-questions-mesut-oezdil/?trackingId=Oie7TCtPSF6Fxdzm9TxRmA%3D%3D
 
 ### AKS
 https://www.javainuse.com/interview/aks
