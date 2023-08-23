@@ -13,6 +13,9 @@ https://medium.com/@sushantkapare1717/docker-senario-based-questions-part-ii-b98
 https://medium.com/@sushantkapare1717/docker-senario-based-questions-part-iii-8a808489e6ef
 
 ### K8S
+#### Kubernetes resources
+https://kubernetes.io/docs/reference/kubectl/cheatsheet/
+
 #### Kubernetes questions
 https://medium.com/@sushantkapare1717/kubernetes-1-27-top-10-features-you-need-to-know-about-50736943623b
 https://medium.com/@sushantkapare1717/understanding-pod-disruption-budget-pdb-in-kubernetes-787c03164d7a
