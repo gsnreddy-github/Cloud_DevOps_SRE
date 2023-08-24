@@ -108,13 +108,13 @@ Example questions include:
 * Can you explain the difference between continuous integration and continuous delivery? 
 * How do you handle a deployment that is failing in production? 
 * How do you monitor the performance and availability of your infrastructure? 
-Can you describe your experience with containerization and container orchestration? 
-How do you handle security in your CI/CD pipeline? 
-How do you keep your infrastructure and application code in sync? 
-How do you ensure that your infrastructure is scalable and can handle unexpected traffic spikes? 
-Can you describe a time when you had to troubleshoot a production issue and how you resolved it? 
-How do you keep track of and manage your infrastructure's configuration? 
-Can you explain how you would set up a blue/green deployment? 
+* Can you describe your experience with containerization and container orchestration? 
+* How do you handle security in your CI/CD pipeline? 
+* How do you keep your infrastructure and application code in sync? 
+* How do you ensure that your infrastructure is scalable and can handle unexpected traffic spikes? 
+* Can you describe a time when you had to troubleshoot a production issue and how you resolved it? 
+* How do you keep track of and manage your infrastructure's configuration? 
+* Can you explain how you would set up a blue/green deployment? 
 
 
 
