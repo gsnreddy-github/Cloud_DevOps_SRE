@@ -114,9 +114,9 @@ Tell me about a difficult work challenge you’ve had.
 
 ## Interview Questions
 ### 
-Can you explain the difference between continuous integration and continuous delivery? 
-How do you handle a deployment that is failing in production? 
-How do you monitor the performance and availability of your infrastructure? 
+* Can you explain the difference between continuous integration and continuous delivery? 
+* How do you handle a deployment that is failing in production? 
+* How do you monitor the performance and availability of your infrastructure? 
 Can you describe your experience with containerization and container orchestration? 
 How do you handle security in your CI/CD pipeline? 
 How do you keep your infrastructure and application code in sync? 
