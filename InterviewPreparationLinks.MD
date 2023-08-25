@@ -5,6 +5,10 @@ https://medium.com/@sushantkapare1717/complete-ci-cd-pipeline-spring-boot-applic
 https://medium.com/@sushantkapare1717/ensuring-security-and-data-privacy-as-a-devops-engineer-8837b9eff044
 https://medium.com/@writetoritika/10-stages-real-world-ci-cd-devsecops-pipeline-for-deployment-of-petclinic-application-f95431bf940
 
+### DevSecOps
+https://learn.microsoft.com/en-us/azure/architecture/guide/devsecops/devsecops-on-aks
+
+
 ### Docker
 #### Docker Questions
 https://medium.com/@sushantkapare1717/docker-interview-questions-74b517ee8943
