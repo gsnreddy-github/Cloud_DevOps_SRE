@@ -121,6 +121,8 @@ Example questions include:
 * Can you explain how you would set up a blue/green deployment? 
 
 
-
+## SRE
+### Read material
+https://faun.pub/the-must-know-checklist-for-devops-system-reliability-engineers-f74c1cbf259d
 
 
