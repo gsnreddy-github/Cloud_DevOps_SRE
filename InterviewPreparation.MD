@@ -60,6 +60,8 @@ https://www.tutorialworks.com/jenkins-shared-library/
 https://github.com/iam-veeramalla/Jenkins-Zero-To-Hero/blob/main/shared-libraries/README.md
 https://medium.com/@prasadsaisai3/project-1-jenkins-declarative-pipeline-cicd-tutorial-for-djnago-notes-app-e17b0c17ee5b
 
+#### Azure DevOps
+https://mdghousedevopsjourney.hashnode.dev/empowering-seamless-development-and-deployment-with-azure-devops-cicd-pipeline
 
 #### Linux
 https://medium.com/@mj.vishweshwaran/vish-linux-commands-for-devops-warriors-3866e4f4e56
