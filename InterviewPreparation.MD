@@ -62,6 +62,7 @@ https://medium.com/@prasadsaisai3/project-1-jenkins-declarative-pipeline-cicd-tu
 
 #### Azure DevOps
 https://mdghousedevopsjourney.hashnode.dev/empowering-seamless-development-and-deployment-with-azure-devops-cicd-pipeline
+https://koosg.medium.com/implement-automatic-key-rotation-on-azure-devops-service-connections-13804b92157c
 
 #### Linux
 https://medium.com/@mj.vishweshwaran/vish-linux-commands-for-devops-warriors-3866e4f4e56
