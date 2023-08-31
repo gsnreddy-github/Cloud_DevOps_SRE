@@ -46,6 +46,7 @@ https://medium.com/@sushantkapare1717/terraform-questions-part-iii-d742ec57e805
 
 #### TF General
 https://medium.com/@saurabhdahibhate50/imp-terraform-commands-unveiled-26a61421b1fd
+https://mdghousedevopsjourney.hashnode.dev/simplified-azure-infrastructure-deployment-via-terraform-in-azure-cicd-pipelines
 
 ### Ansible
 #### Ansible Scenario-Based Questions
