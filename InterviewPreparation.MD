@@ -68,6 +68,14 @@ https://koosg.medium.com/implement-automatic-key-rotation-on-azure-devops-servic
 #### Linux
 https://medium.com/@mj.vishweshwaran/vish-linux-commands-for-devops-warriors-3866e4f4e56
 
+#### Linux bash scripting challenge
+https://medium.com/@aghattikar82/bash-scripting-basics-8924bbbf8794
+https://medium.com/@aghattikar82/day-2-bash-scripting-challenge-interactive-file-and-directory-explorer-2855b37df796
+https://medium.com/@aghattikar82/day-3-bash-scripting-challenge-user-account-management-9198c60035d3
+https://medium.com/@aghattikar82/bashblaze-scripting-challenge-process-monitoring-and-management-ffd642f15bb5
+https://medium.com/@aghattikar82/bash-scripting-challenge-log-analyzer-and-report-generator-4b7d272bdfd0
+https://medium.com/@aghattikar82/day-6-bash-scripting-challenge-the-mysterious-script-708c5a0ae6dc
+
 ### Logging
 #### Prometheus
 https://logit.io/blog/post/prometheus-interview-questions/
