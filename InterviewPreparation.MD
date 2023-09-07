@@ -37,6 +37,7 @@ https://www.linkedin.com/pulse/100-k8s-interview-questions-mesut-oezdil/?trackin
 
 ### AKS
 https://www.javainuse.com/interview/aks
+https://techcommunity.microsoft.com/t5/fasttrack-for-azure/how-to-create-an-aks-cluster-with-azure-managed-prometheus-and/ba-p/3918527
 
 ### Terraform
 #### Terraform Scenario-based questions
