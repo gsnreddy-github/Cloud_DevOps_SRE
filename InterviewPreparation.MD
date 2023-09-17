@@ -68,6 +68,7 @@ https://koosg.medium.com/implement-automatic-key-rotation-on-azure-devops-servic
 
 #### Linux
 https://medium.com/@mj.vishweshwaran/vish-linux-commands-for-devops-warriors-3866e4f4e56
+https://blog.stackademic.com/linux-interview-questions-answers-part-1-aa76168e9ca2
 
 #### Linux bash scripting challenge
 https://medium.com/@aghattikar82/bash-scripting-basics-8924bbbf8794
