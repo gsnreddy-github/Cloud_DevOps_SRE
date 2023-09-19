@@ -98,15 +98,15 @@ https://www.techgeeknext.com/tools/grafana-interview-questions
 ## Management
 ### Agile
 #### Scrum master scenario-based questions
-https://k21academy.com/scrum-master/interview-questions-answers/
+* https://k21academy.com/scrum-master/interview-questions-answers/
 
 ### Medium
 #### Praveen Dandu
-https://praveendandu24.medium.com/
+* https://praveendandu24.medium.com/
 
 ### Behaviour Questions
-Sample Behavioral Interview Questions
-When using behavior-based interviewing, every candidate must be asked the same questions to assess them fairly.
+* Sample Behavioral Interview Questions
+* When using behavior-based interviewing, every candidate must be asked the same questions to assess them fairly.
 
 Example questions include:
  
@@ -134,9 +134,12 @@ Example questions include:
 * How do you keep track of and manage your infrastructure's configuration? 
 * Can you explain how you would set up a blue/green deployment? 
 
+### Exam Dumps
+* https://www.examgo.com/exams/microsoft/az-104/dumps/
+
 
 ## SRE
 ### Read material
-https://faun.pub/the-must-know-checklist-for-devops-system-reliability-engineers-f74c1cbf259d
+* https://faun.pub/the-must-know-checklist-for-devops-system-reliability-engineers-f74c1cbf259d
 
 
