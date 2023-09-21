@@ -95,6 +95,11 @@ https://www.techgeeknext.com/tools/grafana-interview-questions
 #### Splunk
 
 
+## Cloud
+### Azure
+https://techcommunity.microsoft.com/t5/azure-architecture-blog/bg-p/AzureArchitectureBlog
+
+
 ## Management
 ### Agile
 #### Scrum master scenario-based questions
