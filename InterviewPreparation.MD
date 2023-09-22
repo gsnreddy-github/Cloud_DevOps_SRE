@@ -80,6 +80,7 @@ https://medium.com/@aghattikar82/day-3-bash-scripting-challenge-user-account-man
 https://medium.com/@aghattikar82/bashblaze-scripting-challenge-process-monitoring-and-management-ffd642f15bb5
 https://medium.com/@aghattikar82/bash-scripting-challenge-log-analyzer-and-report-generator-4b7d272bdfd0
 https://medium.com/@aghattikar82/day-6-bash-scripting-challenge-the-mysterious-script-708c5a0ae6dc
+https://medium.com/@harshBlogs/advanced-linux-shell-scripting-for-devops-engineers-with-user-management-9835a2b11d5f
 
 ### Logging
 #### Prometheus
