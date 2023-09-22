@@ -36,6 +36,7 @@ https://www.linkedin.com/pulse/100-k8s-interview-questions-mesut-oezdil/?trackin
 
 #### K8S Trouble shooting
 https://medium.com/@nbkumar2103/-e0d69a30379b
+https://medium.com/the-metricfire-blog/monitoring-kubernetes-tutorial-using-grafana-and-prometheus-f106091534fb
 
 #### AKS
 https://www.javainuse.com/interview/aks
