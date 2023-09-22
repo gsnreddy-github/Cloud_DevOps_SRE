@@ -8,7 +8,6 @@ https://medium.com/@writetoritika/10-stages-real-world-ci-cd-devsecops-pipeline-
 ### DevSecOps
 https://learn.microsoft.com/en-us/azure/architecture/guide/devsecops/devsecops-on-aks
 
-
 ### Docker
 #### Docker Questions
 https://medium.com/@sushantkapare1717/docker-interview-questions-74b517ee8943
@@ -35,7 +34,10 @@ https://medium.com/faun/kubernetes-application-deployment-strategies-3935986bec6
 https://prakashkumar0301.medium.com/blue-green-deployment-with-kubernetes-a37a534a2ef4
 https://www.linkedin.com/pulse/100-k8s-interview-questions-mesut-oezdil/?trackingId=Oie7TCtPSF6Fxdzm9TxRmA%3D%3D
 
-### AKS
+#### K8S Trouble shooting
+https://medium.com/@nbkumar2103/-e0d69a30379b
+
+#### AKS
 https://www.javainuse.com/interview/aks
 https://techcommunity.microsoft.com/t5/fasttrack-for-azure/how-to-create-an-aks-cluster-with-azure-managed-prometheus-and/ba-p/3918527
 
