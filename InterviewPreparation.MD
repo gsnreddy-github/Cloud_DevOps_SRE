@@ -41,6 +41,7 @@ K8S Blue Green: https://blog.stackademic.com/blue-green-deployment-using-kuberne
 https://medium.com/@nbkumar2103/-e0d69a30379b
 https://medium.com/the-metricfire-blog/monitoring-kubernetes-tutorial-using-grafana-and-prometheus-f106091534fb
 Out of memory: https://medium.com/@nbkumar2103/-35d9d8beeb3
+Error Codes: https://keentolearn.medium.com/kubernetes-error-codes-what-they-mean-and-how-to-fix-them-e63656927af3
 
 #### AKS
 https://www.javainuse.com/interview/aks
