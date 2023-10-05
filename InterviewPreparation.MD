@@ -112,6 +112,10 @@ https://www.techgeeknext.com/tools/grafana-interview-questions
 ### Azure
 https://techcommunity.microsoft.com/t5/azure-architecture-blog/bg-p/AzureArchitectureBlog
 
+### Azure Admin Interview preparation
+https://k21academy.com/microsoft-azure/admin/interview-questions-for-azure-admin/
+
+
 
 ## Management
 ### Agile
