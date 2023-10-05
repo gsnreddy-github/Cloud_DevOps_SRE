@@ -1,3 +1,7 @@
+## Interview preparation
+https://career.guru99.com/splunk-interview-questions-answers/
+
+
 ## DevOps
 ### DevOps Questions
 https://resumeworded.com/interview-questions/devops-manager
