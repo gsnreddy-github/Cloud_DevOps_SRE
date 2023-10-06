@@ -1,6 +1,13 @@
 ## Interview preparation
 https://career.guru99.com/splunk-interview-questions-answers/
-https://www.youtube.com/@jackedprogrammer
+
+### YouTube channels
+Powershell https://www.youtube.com/@jackedprogrammer
+DevOps https://www.youtube.com/@AbhishekVeeramalla
+DevOps https://www.youtube.com/@NextOpsVideos
+Azure John Savils https://www.youtube.com/@NTFAQGuy
+Azure DevOps https://www.youtube.com/@DevOpsMela
+
 
 
 ## DevOps
