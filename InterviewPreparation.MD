@@ -1,5 +1,6 @@
 ## Interview preparation
 https://career.guru99.com/splunk-interview-questions-answers/
+https://www.youtube.com/@jackedprogrammer
 
 
 ## DevOps
