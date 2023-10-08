@@ -31,6 +31,7 @@ https://medium.com/@sushantkapare1717/docker-senario-based-questions-part-iii-8a
 #### Kubernetes resources
 https://kubernetes.io/docs/reference/kubectl/cheatsheet/
 Bharat Kumar Reddy: https://medium.com/@nbkumar2103/-f7d2535f57bc
+https://yuminlee2.medium.com/kubernetes-services-5eff8e303295
 
 #### Kubernetes questions
 https://medium.com/@sushantkapare1717/kubernetes-1-27-top-10-features-you-need-to-know-about-50736943623b
