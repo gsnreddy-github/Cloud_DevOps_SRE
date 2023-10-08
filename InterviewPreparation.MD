@@ -67,6 +67,7 @@ https://techcommunity.microsoft.com/t5/fasttrack-for-azure/how-to-create-an-aks-
 https://medium.com/@sushantkapare1717/terraform-senario-based-questions-part-i-36eebf18d844
 https://medium.com/@sushantkapare1717/terraform-senario-based-questions-part-ii-71fd702f2535
 https://medium.com/@sushantkapare1717/terraform-questions-part-iii-d742ec57e805
+https://medium.com/@harshBlogs/mastering-terraform-commands-for-devops-in-the-cloud-8a3182828207
 
 #### TF General
 https://medium.com/@saurabhdahibhate50/imp-terraform-commands-unveiled-26a61421b1fd
