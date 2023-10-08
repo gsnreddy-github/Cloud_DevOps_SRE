@@ -85,6 +85,7 @@ https://medium.com/@sushantkapare1717/ansible-senario-based-questions-part-iii-7
 https://www.tutorialworks.com/jenkins-shared-library/
 https://github.com/iam-veeramalla/Jenkins-Zero-To-Hero/blob/main/shared-libraries/README.md
 https://medium.com/@prasadsaisai3/project-1-jenkins-declarative-pipeline-cicd-tutorial-for-djnago-notes-app-e17b0c17ee5b
+https://medium.com/@ajitfawade/jenkins-interview-questions-and-answers-day-29-of-90-days-of-devops-141155440200
 
 #### Azure DevOps
 https://mdghousedevopsjourney.hashnode.dev/empowering-seamless-development-and-deployment-with-azure-devops-cicd-pipeline
