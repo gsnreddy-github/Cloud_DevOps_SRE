@@ -7,6 +7,7 @@ DevOps https://www.youtube.com/@AbhishekVeeramalla
 DevOps https://www.youtube.com/@NextOpsVideos
 Azure John Savils https://www.youtube.com/@NTFAQGuy
 Azure DevOps https://www.youtube.com/@DevOpsMela
+Azure https://www.youtube.com/@FitnessGeekYT
 
 
 
