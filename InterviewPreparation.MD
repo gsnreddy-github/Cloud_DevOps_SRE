@@ -52,6 +52,7 @@ K8S Canary deployment: https://blog.stackademic.com/canary-deployment-using-kube
 K8S Blue Green: https://blog.stackademic.com/blue-green-deployment-using-kubernetes-4fbd023a19c5
 K8S RBAC: https://medium.com/@nbkumar2103/-f7d2535f57bc
 K8S Interview Questions: https://medium.com/@bijit211987/top-100-kubernetes-interview-questions-and-answer-ed2a8342d20c
+k82 100 questions https://mesutoezdil.medium.com/preparation-for-the-k8s-interviews-4f9111cd01e7
 
 #### K8S Trouble shooting
 https://medium.com/@nbkumar2103/-e0d69a30379b
