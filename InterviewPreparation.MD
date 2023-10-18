@@ -132,6 +132,7 @@ https://techcommunity.microsoft.com/t5/azure-architecture-blog/bg-p/AzureArchite
 
 ### Azure Admin Interview preparation
 https://k21academy.com/microsoft-azure/admin/interview-questions-for-azure-admin/
+vm questions https://learn.microsoft.com/en-us/troubleshoot/azure/virtual-machines/welcome-virtual-machines
 
 
 
