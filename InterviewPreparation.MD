@@ -60,6 +60,7 @@ https://medium.com/@nbkumar2103/-e0d69a30379b
 https://medium.com/the-metricfire-blog/monitoring-kubernetes-tutorial-using-grafana-and-prometheus-f106091534fb
 Out of memory: https://medium.com/@nbkumar2103/-35d9d8beeb3
 Error Codes: https://keentolearn.medium.com/kubernetes-error-codes-what-they-mean-and-how-to-fix-them-e63656927af3
+Live Probeness: https://blog.devops.dev/liveness-probe-in-kubernetes-3e49768f5362
 
 #### AKS
 https://www.javainuse.com/interview/aks
@@ -77,6 +78,7 @@ https://medium.com/@saurabhdahibhate50/imp-terraform-commands-unveiled-26a61421b
 https://mdghousedevopsjourney.hashnode.dev/simplified-azure-infrastructure-deployment-via-terraform-in-azure-cicd-pipelines
 Deploy AZ App Gateway: https://sithuyeaung.medium.com/deploying-azure-application-gateway-with-terraform-f995df664f66
 3 tier deployment https://github.com/AmanM13/azure-stack/blob/main/main.tf
+Best practices https://nithinguruswamy.medium.com/best-practices-for-terraform-73f3325c102c
 
 ### Ansible
 #### Ansible Scenario-Based Questions
