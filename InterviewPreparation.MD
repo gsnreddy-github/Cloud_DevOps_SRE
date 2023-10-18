@@ -125,6 +125,12 @@ https://www.techgeeknext.com/tools/grafana-interview-questions
 
 #### Splunk
 
+### Scripting
+#### Bash
+#### PowerShell
+#### Python
+https://medium.com/@hannanmentor/20-python-scripts-with-code-to-automate-your-work-68662a8dcbc1
+
 
 ## Cloud
 ### Azure
