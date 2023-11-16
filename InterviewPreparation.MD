@@ -1,5 +1,6 @@
 ## Interview preparation
 https://career.guru99.com/splunk-interview-questions-answers/
+Azure Bicep: https://interviewprep.org/azure-bicep-interview-questions/
 
 ### YouTube channels
 Powershell https://www.youtube.com/@jackedprogrammer
