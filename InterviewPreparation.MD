@@ -4,6 +4,7 @@ Azure Bicep: https://interviewprep.org/azure-bicep-interview-questions/
 Azure CICD Yaml Approvals: https://medium.com/@aksharsri/add-approval-gates-in-azure-devops-yaml-based-pipelines-a06d5b16b7f4
 Azure CICD Sonar integration: https://cmakkaya.medium.com/devsecops-1-installing-and-running-sonarqube-and-creating-a-sonarqube-project-7bd7c6c5acf3
 Azure CICD Artifact Feed: https://tsuyoshiushio.medium.com/azure-devops-pipeline-with-azure-artifact-nuget-feed-for-dev-environment-40fbc7d8350b
+Azure PR Validations: https://kumarashwinhubert.com/azure-devops-pull-request-build-validation-pipeline-for-net-5-project
 
 ### YouTube channels
 Powershell https://www.youtube.com/@jackedprogrammer
