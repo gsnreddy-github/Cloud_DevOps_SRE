@@ -3,3 +3,5 @@ PublishBuildArtifacts@1 - Publish Artifact
 DownloadPipelineArtifact@2 - Download Artifact
 AzureRmWebAppDeployment@4 - App service deployment
 AzureAppServiceManage@0 - 
+IISWebAppManagementOnMachineGroup@0
+
