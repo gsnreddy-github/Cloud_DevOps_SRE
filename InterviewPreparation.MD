@@ -85,6 +85,7 @@ https://mdghousedevopsjourney.hashnode.dev/simplified-azure-infrastructure-deplo
 Deploy AZ App Gateway: https://sithuyeaung.medium.com/deploying-azure-application-gateway-with-terraform-f995df664f66
 3 tier deployment https://github.com/AmanM13/azure-stack/blob/main/main.tf
 Best practices https://nithinguruswamy.medium.com/best-practices-for-terraform-73f3325c102c
+TF cheat sheet https://medium.com/@hannah.lochhead/terraform-cheat-sheet-exam-tips-605acd8cc7dc
 
 ### Ansible
 #### Ansible Scenario-Based Questions
