@@ -104,6 +104,7 @@ https://medium.com/@ajitfawade/jenkins-interview-questions-and-answers-day-29-of
 #### Azure DevOps
 https://mdghousedevopsjourney.hashnode.dev/empowering-seamless-development-and-deployment-with-azure-devops-cicd-pipeline
 https://koosg.medium.com/implement-automatic-key-rotation-on-azure-devops-service-connections-13804b92157c
+Multi stage yaml pipeline: https://samlearnsazure.blog/2020/02/05/approvals-in-environments/
 
 #### Linux
 https://medium.com/@mj.vishweshwaran/vish-linux-commands-for-devops-warriors-3866e4f4e56
