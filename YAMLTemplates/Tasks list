@@ -1,4 +1,5 @@
 DotNetCoreCLI@2 - Restore / Build / Publish
 PublishBuildArtifacts@1 - Publish Artifact
 DownloadPipelineArtifact@2 - Download Artifact
- AzureRmWebAppDeployment@4 - App servie deployment
+AzureRmWebAppDeployment@4 - App service deployment
+AzureAppServiceManage@0 - 
