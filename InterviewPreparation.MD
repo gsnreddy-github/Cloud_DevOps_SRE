@@ -108,6 +108,7 @@ Multi-stage yaml pipeline: https://samlearnsazure.blog/2020/02/05/approvals-in-e
 Passing variables: https://medium.com/microsoftazure/how-to-pass-variables-in-azure-pipelines-yaml-tasks-5c81c5d31763
 Quality Gate: https://medium.com/@telesis/quality-gate-configuring-code-coverage-checks-for-net-c50874b89a20
 Key vault integration: https://azuredevopslabs.com/labs/vstsextend/azurekeyvault/
+Trigger pipeline from another YAML: https://github.com/HoussemDellai/Trigger-Pipeline-From-Another-Pipeline
 
 #### Linux
 https://medium.com/@mj.vishweshwaran/vish-linux-commands-for-devops-warriors-3866e4f4e56
