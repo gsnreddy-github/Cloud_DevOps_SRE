@@ -3,5 +3,12 @@ PublishBuildArtifacts@1 - Publish Artifact
 DownloadPipelineArtifact@2 - Download Artifact
 AzureRmWebAppDeployment@4 - App service deployment
 AzureAppServiceManage@0 - 
-IISWebAppManagementOnMachineGroup@0
+AzureAppServiceSettings@1 - for app settings
+
+IISWebAppManagementOnMachineGroup@0 - For iis deployments
+AzureFunctionApp@1 - Deploy function apps
+PublishCodeCoverageResults@1
+
+
+
 
