@@ -6,6 +6,7 @@ Splunk: https://career.guru99.com/splunk-interview-questions-answers/
 <br>Azure CICD Artifact Feed: https://tsuyoshiushio.medium.com/azure-devops-pipeline-with-azure-artifact-nuget-feed-for-dev-environment-40fbc7d8350b
 <br>Azure PR Validations: https://kumarashwinhubert.com/azure-devops-pull-request-build-validation-pipeline-for-net-5-project
 <br>App service integrations https://shailender-choudhary.medium.com/azure-app-services-network-connections-286ee35bfe53#:~:text=The%20most%20common%20use%20case,to%20resources%20in%20your%20VNet.
+<be>Azure Landing Zone: https://ripon-banik.medium.com/azure-landing-zone-with-terraform-616657babadc
 
 ### YouTube channels
 Powershell https://www.youtube.com/@jackedprogrammer
