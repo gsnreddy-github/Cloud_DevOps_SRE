@@ -8,7 +8,9 @@ Splunk: https://career.guru99.com/splunk-interview-questions-answers/
 <br>App service integrations https://shailender-choudhary.medium.com/azure-app-services-network-connections-286ee35bfe53#:~:text=The%20most%20common%20use%20case,to%20resources%20in%20your%20VNet.
 <br>Azure Landing Zone: https://ripon-banik.medium.com/azure-landing-zone-with-terraform-616657babadc
 <br>Linux For DevOps: https://medium.com/@skmswetha22/linux-for-devops-engineers-9b51d4168f9b
-<be>Azure docs https://medium.com/@vinijmoura
+<br>Azure docs https://medium.com/@vinijmoura
+<br>Jenkins Implementation https://medium.com/@sushantkapare1717/ci-cd-3-tier-todo-application-f92a8d63172a
+
 
 ### YouTube channels
 Powershell https://www.youtube.com/@jackedprogrammer
