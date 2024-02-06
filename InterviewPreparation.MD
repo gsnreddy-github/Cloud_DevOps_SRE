@@ -10,6 +10,7 @@ Splunk: https://career.guru99.com/splunk-interview-questions-answers/
 <br>Linux For DevOps: https://medium.com/@skmswetha22/linux-for-devops-engineers-9b51d4168f9b
 <br>Azure docs https://medium.com/@vinijmoura
 <br>Jenkins Implementation https://medium.com/@sushantkapare1717/ci-cd-3-tier-todo-application-f92a8d63172a
+<be>Jenkins Implementation https://medium.com/@writetoritika/real-time-devsecops-pipeline-for-a-dotnet-web-app-ece99ba14219
 
 
 ### YouTube channels
