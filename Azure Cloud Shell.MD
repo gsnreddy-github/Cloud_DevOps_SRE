@@ -129,13 +129,23 @@ az vm show --resource-group ODL-azure-1224297 --name SampleVM --query "networkPr
 az vm show --resource-group ODL-azure-1224297 --name SampleVM --query "networkProfile.networkInterfaces[].id" -o tsv
 </blockquote>
 
+Stop a VM
 <blockquote>
+az vm stop --name SampleVM --resource-group [sandbox resource group name]
+
+<br>
+verify the VM has stopped
+az vm get-instance-view --name SampleVM --resource-group ODL-azure-1224297 --query "instanceView.statuses[?starts_with(code, 'PowerState/')].displayStatus" -o tsv
 </blockquote>
 
+Start a VM
 <blockquote>
+az vm start --name SampleVM --resource-group [sandbox resource group name]
 </blockquote>
 
+Restart a VM
 <blockquote>
+az vm restart  --name SampleVM --resource-group [sandbox resource group name] --no-wait
 </blockquote>
 
 <blockquote>
