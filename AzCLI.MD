@@ -1,5 +1,15 @@
 create a new Linux virtual machine
-az vm create --resource-group [sandbox resource group name] --location westus --name SampleVM --image Ubuntu2204 --admin-username azureuser --generate-ssh-keys --verbose
+<blockquote>
+az vm create \
+--resource-group [sandbox resource group name] \
+--location westus \
+--name SampleVM \
+--image Ubuntu2204 \
+--admin-username azureuser \
+--generate-ssh-keys --verbose
+</blockquote>
+
+
 
 This command returns a list of all the possible size configurations available in the resource group. 
 
