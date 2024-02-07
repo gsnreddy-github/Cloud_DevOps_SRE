@@ -2,15 +2,15 @@ Sub Commands
 
 <blockquote>
 create -	Create a new virtual machine
-deallocate -	Deallocate a virtual machine
-delete -	Delete a virtual machine
-list -	List the created virtual machines in your subscription
-open-port	- Open a specific network port for inbound traffic
-restart -	Restart a virtual machine
-show -	Get the details for a virtual machine
-start -	Start a stopped virtual machine
-stop -	Stop a running virtual machine
-update -	Update a property of a virtual machine
+<br>deallocate -	Deallocate a virtual machine
+<br>delete -	Delete a virtual machine
+<br>list -	List the created virtual machines in your subscription
+<br>open-port	- Open a specific network port for inbound traffic
+<br>restart -	Restart a virtual machine
+<br>show -	Get the details for a virtual machine
+<br>start -	Start a stopped virtual machine
+<br>stop -	Stop a running virtual machine
+<br>update -	Update a property of a virtual machine
 </blockquote>
 
 create a new Linux virtual machine
