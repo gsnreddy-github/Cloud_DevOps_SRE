@@ -24,16 +24,23 @@ Location-specific images
 az vm image list --location eastus --output table
 </blockquote>
 
+list of the available sizes
 <blockquote>
-
+az vm list-sizes --location eastus --output table
 </blockquote>
 
+Specify a size during VM creation
 <blockquote>
-
+az vm create --resource-group [sandbox resource group name] --name SampleVM2 --image Ubuntu2204 --admin-username azureuser --generate-ssh-keys --verbose --size "Standard_DS2_v2"
 </blockquote>
 
+Resize an existing VM
 <blockquote>
-
+az vm list-vm-resize-options --resource-group [sandbox resource group name] --name SampleVM --output table
+<br>az vm resize \
+    --resource-group [sandbox resource group name] \
+    --name SampleVM \
+    --size Standard_D2s_v3
 </blockquote>
 
 <blockquote>
