@@ -16,7 +16,7 @@ az vm image list --output table
 Getting all images
 <blockquote>
 az vm image list --sku Wordpress --output table --all
-az vm image list --publisher Microsoft --output table --all
+<br>az vm image list --publisher Microsoft --output table --all
 </blockquote>
 
 Location-specific images
