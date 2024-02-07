@@ -81,7 +81,67 @@ Add filters to queries with JMESPath
   ]
 }
 
+<br>
+people[1] 
+{
+    "name": "Barney",
+    "age": 25
+}
 
+<br>
+people[?age > '25']
+[
+  {
+    "name": "Fred",
+    "age": 28
+  },
+  {
+    "name": "Wilma",
+    "age": 27
+  }
+]
+
+<br>
+people[?age > '25'].[name]
+[
+  [
+    "Fred"
+  ],
+  [
+    "Wilma"
+  ]
+]
+</blockquote>
+
+Filter your Azure CLI queries
+<blockquote>
+retrieve the admin username
+az vm show --resource-group [sandbox resource group name] --name SampleVM --query "osProfile.adminUsername"
+
+<br>
+ get the size assigned to our VM
+az vm show --resource-group ODL-azure-1224297 --name SampleVM --query hardwareProfile.vmSize
+
+<br>
+retrieve all the IDs for your network interfaces
+az vm show --resource-group ODL-azure-1224297 --name SampleVM --query "networkProfile.networkInterfaces[].id"
+
+az vm show --resource-group ODL-azure-1224297 --name SampleVM --query "networkProfile.networkInterfaces[].id" -o tsv
+</blockquote>
+
+<blockquote>
+</blockquote>
+
+<blockquote>
+</blockquote>
+
+<blockquote>
+</blockquote>
+
+<blockquote>
+</blockquote>
+
+<blockquote>
 </blockquote>
 
 <blockquote>
