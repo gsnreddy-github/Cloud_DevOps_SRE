@@ -37,12 +37,52 @@ az vm create --resource-group [sandbox resource group name] --name SampleVM2 --i
 Resize an existing VM
 <blockquote>
 az vm list-vm-resize-options --resource-group [sandbox resource group name] --name SampleVM --output table
-<br>az vm resize \
-    --resource-group [sandbox resource group name] \
-    --name SampleVM \
-    --size Standard_D2s_v3
+<br>az vm resize --resource-group [sandbox resource group name] --name SampleVM --size Standard_D2s_v3
+</blockquote>
+
+all virtual machines
+<blockquote>
+az vm list
+</blockquote>
+
+Output types
+<blockquote>
+az vm list --output table
+
+<br>Along with table, you can specify json (the default), jsonc (colorized JSON), or tsv (Tab-Separated Values). Try a few variations with the preceding command to see the difference.
+</blockquote>
+
+Get the IP address
+<blockquote>
+az vm list-ip-addresses -n SampleVM -o table
+</blockquote>
+
+Get VM details
+<blockquote>
+az vm show --resource-group [sandbox resource group name] --name SampleVM
+</blockquote>
+
+Add filters to queries with JMESPath
+<blockquote>
+{
+  "people": [
+    {
+      "name": "Fred",
+      "age": 28
+    },
+    {
+      "name": "Barney",
+      "age": 25
+    },
+    {
+      "name": "Wilma",
+      "age": 27
+    }
+  ]
+}
+
+
 </blockquote>
 
 <blockquote>
-
 </blockquote>
