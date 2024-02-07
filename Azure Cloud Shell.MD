@@ -151,16 +151,16 @@ az vm restart  --name SampleVM --resource-group [sandbox resource group name] --
 Install NGINX web server
 <blockquote>
 az vm list-ip-addresses --name SampleVM --output table
-ssh azureuser@<PublicIPAddress>
-sudo apt-get -y update && sudo apt-get -y install nginx
-exit
+<br>ssh azureuser@<PublicIPAddress>
+<br>sudo apt-get -y update && sudo apt-get -y install nginx
+<br>exit
 </blockquote>
 
 Retrieve your default page
 <blockquote>
 curl -m 80 <PublicIPAddress>
-az vm open-port --port 80 --resource-group [sandbox resource group name] --name SampleVM
-curl -m 80 <PublicIPAddress>
+<br>az vm open-port --port 80 --resource-group [sandbox resource group name] --name SampleVM
+<br>curl -m 80 <PublicIPAddress>
 
 </blockquote>
 
