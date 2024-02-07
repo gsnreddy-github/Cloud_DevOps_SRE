@@ -1,3 +1,18 @@
+Sub Commands
+
+<blockquote>
+create -	Create a new virtual machine
+deallocate -	Deallocate a virtual machine
+delete -	Delete a virtual machine
+list -	List the created virtual machines in your subscription
+open-port	- Open a specific network port for inbound traffic
+restart -	Restart a virtual machine
+show -	Get the details for a virtual machine
+start -	Start a stopped virtual machine
+stop -	Stop a running virtual machine
+update -	Update a property of a virtual machine
+</blockquote>
+
 create a new Linux virtual machine
 <blockquote>
 az vm create --resource-group [sandbox resource group name] --location westus --name SampleVM --image Ubuntu2204 --admin-username azureuser --generate-ssh-keys --verbose
