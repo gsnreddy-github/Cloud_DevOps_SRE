@@ -9,6 +9,7 @@ ssh azureuser@<public-ip-address>
 </blockquote>
 
 
+
 This command returns a list of all the possible size configurations available in the resource group. 
 
 az vm list-vm-resize-options --resource-group [sandbox resource group name] --name SampleVM --output table
