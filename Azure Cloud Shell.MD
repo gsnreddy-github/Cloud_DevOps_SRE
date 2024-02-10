@@ -177,7 +177,35 @@ curl -m 80 <PublicIPAddress>
 <br>az vm open-port --port 80 --resource-group [sandbox resource group name] --name SampleVM
 <br>curl -m 80 <PublicIPAddress>
 
+Deploy APP into WebApp
+<blockquote>
+Create a new web project
+<br>
+wget -q -O - https://dotnet.microsoft.com/download/dotnet/scripts/v1/dotnet-install.sh | bash -s -- --version 6.0.404
+export PATH="~/.dotnet:$PATH"
+echo "export PATH=~/.dotnet:\$PATH" >> ~/.bashrc
+<br>
+dotnet new mvc --name BestBikeApp
+<br>
+dotnet run
+<br>
+curl -kL http://127.0.0.1:5000/
+<br>
+
+cd ~/BestBikeApp
+dotnet publish -o pub
+cd pub
+zip -r site.zip *
+<br>
+
+
+az webapp deployment source config-zip \
+    --src site.zip \
+    --resource-group learn-b96cb70f-5c48-4838-9792-bc7af8f12308 \
+    --name webapp20240209
 </blockquote>
+
+
 
 <blockquote>
 </blockquote>
