@@ -176,6 +176,7 @@ Retrieve your default page
 curl -m 80 <PublicIPAddress>
 <br>az vm open-port --port 80 --resource-group [sandbox resource group name] --name SampleVM
 <br>curl -m 80 <PublicIPAddress>
+</blockquote>
 
 Deploy APP into WebApp
 <blockquote>
