@@ -13,6 +13,7 @@ Splunk: https://career.guru99.com/splunk-interview-questions-answers/
 <br>Jenkins Implementation https://medium.com/@writetoritika/real-time-devsecops-pipeline-for-a-dotnet-web-app-ece99ba14219
 <br>AZ Docs https://github.com/MicrosoftDocs/azure-devops-docs/tree/main/docs/pipelines/release
 <br>AZ Labs https://azuredevopslabs.com/
+<br>Terraform Templates https://kodekloud.com/blog/terraform-template/
 
 
 ### YouTube channels
