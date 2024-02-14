@@ -14,6 +14,7 @@ Splunk: https://career.guru99.com/splunk-interview-questions-answers/
 <br>AZ Docs https://github.com/MicrosoftDocs/azure-devops-docs/tree/main/docs/pipelines/release
 <br>AZ Labs https://azuredevopslabs.com/
 <br>Terraform Templates https://kodekloud.com/blog/terraform-template/
+<br>Terraform guide https://blog.brainboard.co/complete-terraform-tutorial-c43960c014ed
 
 
 ### YouTube channels
